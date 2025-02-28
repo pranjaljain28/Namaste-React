@@ -1,0 +1,22 @@
+{
+  "name": "nr",
+  "version": "1.0.0",
+  "description": "This is Namaste React .",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pranjaljain28/Namaste-React.git"
+  },
+  "author": "Pranjal Jain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pranjaljain28/Namaste-React/issues"
+  },
+  "homepage": "https://github.com/pranjaljain28/Namaste-React#readme",
+  "devDependencies": {
+    "parcel": "^2.13.3"
+  }
+}
